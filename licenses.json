@@ -61,6 +61,12 @@
       "url": "https://www.bctransit.com/open-data/terms-of-use/"
     },
     {
+      "identifier": "BC TransLink TaC",
+      "name": "BC TransLink",
+      "attribution_text": "Route and arrival data used in this product or service is provided by permission of TransLink. TransLink assumes no responsibility for the accuracy or currency of the Data used in this product or service.",
+      "url": "https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs/gtfs-data"
+    },
+    {
       "identifier": "MassDOT",
       "name": "Massachusetts Department of Transportation Developers License Agreement",
       "attribution_text": null,
@@ -673,6 +679,12 @@
       "spdx": null,
       "url": "https://consat.se",
       "custom_license": "BC Transit ToU"
+    },
+    {
+      "file": "ca-bc_TransLink.gtfs.zip",
+      "spdx": null,
+      "url": "https://gtfs-static.translink.ca/gtfs/google_transit.zip",
+      "custom_license": "BC TransLink TaC"
     },
     {
       "file": "ae_Dubai-RTA.gtfs.zip",
