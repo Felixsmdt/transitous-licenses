@@ -155,6 +155,12 @@
       "name": null,
       "attribution_text": null,
       "url": "https://github.com/user-attachments/files/24483097/Response.-.26-FOI-00215.pdf"
+    },
+    {
+      "identifier": "trimet-tou",
+      "name": "TriMet Terms of Use",
+      "attribution_text": null,
+      "url": "https://developer.trimet.org/terms_of_use.shtml"
     }
   ],
   "sources": [
@@ -1165,6 +1171,12 @@
       "spdx": null,
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip",
       "custom_license": "no-license-amtrak"
+    },
+    {
+      "file": "us-or_Trimet.gtfs.zip",
+      "spdx": null,
+      "url": "https://developer.trimet.org/schedule/gtfs.zip",
+      "custom_license": "trimet-tou"
     }
   ]
 }
